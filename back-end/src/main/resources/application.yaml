@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+#logging:
+#  level:
+#    org.springframework.data:
+#      mongodb:
+#        core:
+#          ReactiveMongoTemplate: info
+#          MongoTemplate: info
